@@ -1,3 +1,3 @@
-# forcescripts
-Epin Satış Scripti - Pazar Alanı Scripti
-Güncellemeleri Doğrulama
+# Force Scripts Güncelleme Doğrulama ve İndirme
+
+Güncellenen scriptleri buradan doğrulayabilir veya manuel indirme yapabilirsiniz. Eklenen güncellemeler repository den otomatik bir şekilde çekilerek indirilmektedir.
